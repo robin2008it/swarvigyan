@@ -20,6 +20,7 @@ class App extends Component {
             <BrowserRouter>
             <React.Fragment>
                 <Header/>
+                HIIIII
                 <Switch>
                     <Route exact path={'/'} render={() => {
                         return <Redirect to={'/home'}/>
