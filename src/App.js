@@ -22,9 +22,7 @@ class App extends Component {
                 <Header/>
                 HIIIII
                 <Switch>
-                    <Route exact path={'/'} render={() => {
-                        return <Redirect to={'/home'}/>
-                    }}/>
+                    <Route exact path={'/'} component={App}/>
                     <Route exact path={'/home'} component={Home}/>
                     {/* <Route exact path={'/products/:id'} component={ProductDetail}/>
                     <Route exact patr={'/cart'} component={ShoppingCart}/> */}
