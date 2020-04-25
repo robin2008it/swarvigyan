@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/swarvigyan/static/css/main.e481f7f5.chunk.css",
-    "main.js": "/swarvigyan/static/js/main.e2d2cfee.chunk.js",
-    "main.js.map": "/swarvigyan/static/js/main.e2d2cfee.chunk.js.map",
+    "main.js": "/swarvigyan/static/js/main.90d04380.chunk.js",
+    "main.js.map": "/swarvigyan/static/js/main.90d04380.chunk.js.map",
     "runtime-main.js": "/swarvigyan/static/js/runtime-main.a3360440.js",
     "runtime-main.js.map": "/swarvigyan/static/js/runtime-main.a3360440.js.map",
-    "static/js/2.5b977ca6.chunk.js": "/swarvigyan/static/js/2.5b977ca6.chunk.js",
-    "static/js/2.5b977ca6.chunk.js.map": "/swarvigyan/static/js/2.5b977ca6.chunk.js.map",
+    "static/js/2.514f56b2.chunk.js": "/swarvigyan/static/js/2.514f56b2.chunk.js",
+    "static/js/2.514f56b2.chunk.js.map": "/swarvigyan/static/js/2.514f56b2.chunk.js.map",
     "index.html": "/swarvigyan/index.html",
-    "precache-manifest.e0d850be6620e1d1387aec02351cae7f.js": "/swarvigyan/precache-manifest.e0d850be6620e1d1387aec02351cae7f.js",
+    "precache-manifest.c9eb181169de4afd23496f196c05e1be.js": "/swarvigyan/precache-manifest.c9eb181169de4afd23496f196c05e1be.js",
     "service-worker.js": "/swarvigyan/service-worker.js",
     "static/css/main.e481f7f5.chunk.css.map": "/swarvigyan/static/css/main.e481f7f5.chunk.css.map",
-    "static/js/2.5b977ca6.chunk.js.LICENSE.txt": "/swarvigyan/static/js/2.5b977ca6.chunk.js.LICENSE.txt"
+    "static/js/2.514f56b2.chunk.js.LICENSE.txt": "/swarvigyan/static/js/2.514f56b2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a3360440.js",
-    "static/js/2.5b977ca6.chunk.js",
+    "static/js/2.514f56b2.chunk.js",
     "static/css/main.e481f7f5.chunk.css",
-    "static/js/main.e2d2cfee.chunk.js"
+    "static/js/main.90d04380.chunk.js"
   ]
 }
