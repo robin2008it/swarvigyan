@@ -20,12 +20,12 @@ class App extends Component {
             <BrowserRouter>
             <React.Fragment>
                 <Header/>
-                
+                <Home/>
                 <Switch>
-                    <Route exact path={'/'} render={() => {
+                    {/* <Route exact path={'/'} render={() => {
                         return <Redirect to={'/home'}/>
                     }}/>
-                    <Route exact path={'/home'} component={Home}/>
+                    <Route exact path={'/home'} component={Home}/> */}
                     {/* <Route exact path={'/products/:id'} component={ProductDetail}/>
                     <Route exact patr={'/cart'} component={ShoppingCart}/> */}
                 </Switch>
