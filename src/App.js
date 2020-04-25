@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 
 
 
-import {BrowserRouter, Switch, Route, Redirect} from 'react-router-dom';
+import {HashRouter, Switch, Route, Redirect} from 'react-router-dom';
 
 
 import Home from "./pages/Home/Home";
@@ -17,7 +17,7 @@ class App extends Component {
   render() {
     return (
         
-            <BrowserRouter>
+            <HashRouter>
             <React.Fragment>
                 <Header/>
                 <Home/>
@@ -31,7 +31,7 @@ class App extends Component {
                 </Switch>
                 <Footer/>
             </React.Fragment>
-            </BrowserRouter>
+            </HashRouter>
         
     );
   }
