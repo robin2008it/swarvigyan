@@ -10,7 +10,7 @@ class Home extends Component {
         this.state = { todayPanchang: "" }
     }
     componentDidMount() {
-        fetch('https://api.jsonbin.io/b/5e9ff6855fa47104cea4ece1/1')
+        fetch('https://api.jsonbin.io/b/5e9ff6855fa47104cea4ece1/2')
             .then(response => response.json())
             .then((jsonData) => {
                 // jsonData is parsed json object received from url
